@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **qualwin55@gmail.com**
 
+<script src="https://tryhackme.com/badge/167328"></script>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/qualwin.sec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="qualwin.sec" height="30" width="40" /></a>
