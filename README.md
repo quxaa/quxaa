@@ -1,10 +1,10 @@
 
-<h1 align="center">Hi 👋, I'm Qualwin</h1>
+<h1 align="center">Hi 👋, I'm Qx4lw1n</h1>
 <h3 align="center">A passionate Developer from Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qualwin&label=Profile%20views&color=0e75b6&style=flat" alt="qualwin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qualwin&label=Profile%20views&color=0e75b6&style=flat" alt="Qx4lw1n" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qualwin" alt="qualwin" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Qx4lw1n" alt="Qx4lw1n" /></a> </p>
 
 - 🌱 I’m currently learning **Security & Software**
 
@@ -13,8 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/qualwin.sec" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="qualwin.sec" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/qualwin security" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="qualwin security" height="30" width="40" /></a>
+<a href="https://instagram.com/Qx4lw1n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="qualwin.sec" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
