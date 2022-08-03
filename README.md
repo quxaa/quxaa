@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qualwin38000" alt="qualwin38000" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/qualwin38000" target="blank"><img src="https://img.shields.io/twitter/follow/qualwin38000?logo=twitter&style=for-the-badge" alt="qualwin38000" /></a> </p>
+<p align="left"> <a href="https://twitter.com/qx4lw1n" target="blank"><img src="https://img.shields.io/twitter/follow/qualwin38000?logo=twitter&style=for-the-badge" alt="qualwin38000" /></a> </p>
 
 - 📝 I regularly write articles on [https://qx4lw1nsec.blogspot.com](https://qx4lw1nsec.blogspot.com)
 
