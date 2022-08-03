@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm qualwin</h1>
-<h3 align="center">A passionate frontend cyber security researcher from Turkey</h3>
+<h3 align="center">A passionate cyber security researcher from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qualwin38000&label=Profile%20views&color=0e75b6&style=flat" alt="qualwin38000" /> </p>
 
