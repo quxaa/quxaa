@@ -18,5 +18,7 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=izkitjwx9jthbtqfkdjltssga&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=qualwin&icon=7&color=0)](https://visitcount.itsvg.in)
