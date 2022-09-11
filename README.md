@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qualwin38000&label=Profile%20views&color=0e75b6&style=flat" alt="qualwin38000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qualwin38000" alt="qualwin38000" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/qualwin" target="blank"><img src="https://img.shields.io/twitter/follow/qualwin?logo=twitter&style=for-the-badge" alt="qualwin38000" /></a> </p>
 
 - 📝 I regularly write articles on [https://qx4lw1nsec.blogspot.com](https://qx4lw1nsec.blogspot.com)
